@@ -19,6 +19,7 @@
 ## Current Projects
 
 - 🚧 **[SearchFIT](https://searchfit.ai)** - AI Visibility (ChatGPT, Claude, Perplexity, Grok, Gemini), Optimization and AI Content - on autopilot.
+- 🚧 **[Padiso](https://padiso.ai)** - Deploy, manage, and scale background AI agents with multi-model support and unlimited integrations.
 
 ## GitHub Activity
 
